@@ -7,7 +7,7 @@
         <menu>
             <item
                     android:id="@+id/profile"
-                    android:icon="@drawable/ic_menu_share"
+                    android:icon="@drawable/ic_home"
                     android:title="@string/menu_profile"/>
         </menu>
     </item>
@@ -16,7 +16,7 @@
         <menu>
             <item
                     android:id="@+id/purchases"
-                    android:icon="@drawable/ic_menu_share"
+                    android:icon="@drawable/ic_purchases"
                     android:title="@string/menu_purchase"/>
         </menu>
     </item>
@@ -25,11 +25,11 @@
         <menu>
             <item
                     android:id="@+id/watchlist"
-                    android:icon="@drawable/ic_menu_share"
+                    android:icon="@drawable/ic_watchlist"
                     android:title="@string/menu_watchlist"/>
             <item
                     android:id="@+id/stocks"
-                    android:icon="@drawable/ic_menu_send"
+                    android:icon="@drawable/ic_stocks"
                     android:title="@string/menu_stocks"/>
         </menu>
     </item>
